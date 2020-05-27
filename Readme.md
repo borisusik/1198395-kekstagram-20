@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
-* Студент: [Борис Глинский](https://up.htmlacademy.ru/javascript/20/user/1198395).
-* Наставник: `Неизвестно`.
+* Студент: [Борис Глинский](https://htmlacademy.ru/profile/colspan).
+* Наставник: [Артём Рудов](https://htmlacademy.ru/profile/artrudov).
 
 ---
 
